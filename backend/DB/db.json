@@ -1,0 +1,40 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "points": 12,
+      "seasonMin": 12,
+      "seasonMax": 12,
+      "recordBreakMin": 0,
+      "recordBreakMax": 0
+
+    },
+    {
+      "id": 2,
+      "points": 24,
+      "seasonMin": 12,
+      "seasonMax": 24,
+      "recordBreakMin": 0,
+      "recordBreakMax": 1
+
+    },
+    {
+      "id": 3,
+      "points": 10,
+      "seasonMin": 10,
+      "seasonMax": 24,
+      "recordBreakMin": 1,
+      "recordBreakMax": 1
+
+    },
+    {
+      "id": 4,
+      "points": 24,
+      "seasonMin": 10,
+      "seasonMax": 24,
+      "recordBreakMin": 1,
+      "recordBreakMax": 1
+    }
+    
+  ]
+}
